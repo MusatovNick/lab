@@ -8,13 +8,6 @@ else {
     console.log('Некорректный ввод!');
 }
 
-
-
-//asdf adsfasdfa1111
-
-
-//asdfasdf asdfa /sdf aadfasd
-
-
-// locale
-// origin (remote)
+function newArray(...date) {
+    return date;
+}
