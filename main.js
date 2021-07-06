@@ -8,15 +8,6 @@ else {
     console.log('Некорректный ввод!');
 }
 
-
-/// 111234123
-
-
 function newArray(...date) {
     return date;
 }
-
-
-
-// locale
-// origin (remote)
