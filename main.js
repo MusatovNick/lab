@@ -11,5 +11,3 @@ else {
 function newArray(...date) {
     return date;
 }
-
-// asdfasdfasd
